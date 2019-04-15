@@ -1,0 +1,13 @@
+name: Asterisk
+main: Zedstar16\Asterisk\Main
+version: 1.0
+api: 3.5.0
+load: POSTWORLD
+author: Zedstar16
+description: Simple plugin allowing you to execute a command with everyone online as the target
+website: https://github.com/zedstar16/Asterisk
+
+permissions:
+ asterisk:
+  default: op
+  description: "Asterisk"
